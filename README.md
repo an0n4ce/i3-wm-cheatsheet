@@ -4,7 +4,6 @@
 
 ### General
 
-- `startx i3` Start i3 from command line
 - `$mod+<Enter>` Open a terminal
 - `$mod+d` Open dmenu (text based program launcher)
 - `$mod+r` Resize mode (<Esc> or <Enter> to leave resize mode)
