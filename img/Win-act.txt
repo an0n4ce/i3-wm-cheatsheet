@@ -17,3 +17,8 @@ slmgr.vbs /skms kms.teevee.asia
 
 slmgr.vbs /ato 
 
+
+## Check product key
+
+wmic path SoftwareLicensingService get OA3xOriginalProductKey
+
