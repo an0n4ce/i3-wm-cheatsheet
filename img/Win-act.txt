@@ -1,6 +1,4 @@
-```bash
-
-# Run Cmd as admin then copy this  
+# Run Cmd as admin then copy this,  
 
 dism /Online /Get-TargetEditions
 
@@ -19,4 +17,3 @@ slmgr.vbs /skms kms.teevee.asia
 
 slmgr.vbs /ato 
 
-```
